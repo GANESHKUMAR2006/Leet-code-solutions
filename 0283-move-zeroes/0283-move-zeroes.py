@@ -10,5 +10,4 @@ class Solution:
                 left+=1
         for j in range(left,len(nums)):
             nums[j]=0
-        return nums
         
