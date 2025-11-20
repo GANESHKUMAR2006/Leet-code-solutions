@@ -12,8 +12,6 @@ class Solution:
                     mindiff=s
                 if s<target:
                     left+=1
-                elif s>target:
-                    right-=1
                 else:
-                    return s
+                    right-=1
         return mindiff
