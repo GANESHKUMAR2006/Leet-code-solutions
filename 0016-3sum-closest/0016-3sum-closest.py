@@ -1,7 +1,6 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         nums.sort()
-        hashset=set()
         n=len(nums)
         mindiff=float('inf')
         for i in range(n-1):
