@@ -5,5 +5,5 @@ class Solution:
        n=len(s)
        for i in range(n-1,-1,-1):
          tot+=shifts[i]
-         s[i]=chr((ord(s[i])-ord('a')+tot)%26+ord('a'))
+         s[i]=chr(((ord(s[i])-ord('a')+tot)%26)+ord('a'))
        return ''.join(s)
