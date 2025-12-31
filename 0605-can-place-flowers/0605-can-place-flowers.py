@@ -1,15 +1,9 @@
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
-        i=0
         length=len(flowerbed)
-        while i<length:
+        for i in range(length):
             if flowerbed[i]==0:
-                left=(i==0)or(flowerbed[i-1]==0)
-                right=(i==length-1)or(flowerbed[i+1]==0)
-                if left and right:
+                if (i==0 or flowerbed[i-1]==0) and(i==length-1 or flowerbed[i+1]==0):
                     flowerbed[i]=1
                     n-=1
-                    if n==0:
-                        return True
-            i+=1
         return n<=0
