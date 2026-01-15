@@ -3,8 +3,8 @@ class Solution:
         def area(arr):
             arr.sort()
             max_len=cur=1
-            for i in range(1,len(arr)):
-                if arr[i-1]+1==arr[i]:
+            for i in range(len(arr)-1):
+                if arr[i]+1==arr[i+1]:
                     cur+=1
                 else:
                     cur=1
