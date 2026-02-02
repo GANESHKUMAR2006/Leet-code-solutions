@@ -16,14 +16,13 @@ class Container:
             self.large.add(x)
             self.sm-=x
     def add(self,x:int):
-        if self.small and x<=self.small[-1]:
+        if not self.small or x<=self.small[-1]:
             self.small.add(x)
             self.sm+=x
         else:
             self.large.add(x)
         self.balance()
     def erase(self,x:int):
-        if self.small and x<=self.small[-1]:
             if x in self.small:
                 self.small.remove(x)
                 self.sm-=x
