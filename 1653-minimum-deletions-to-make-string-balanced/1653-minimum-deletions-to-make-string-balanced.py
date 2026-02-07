@@ -2,9 +2,8 @@ class Solution:
     def minimumDeletions(self, s: str) -> int:
         bcount=0
         res=0
-        n=len(s)
-        for i in range(n):
-            if s[i]=='b':
+        for i in s:
+            if i=='b':
                 bcount+=1
             elif bcount:
                 bcount-=1
