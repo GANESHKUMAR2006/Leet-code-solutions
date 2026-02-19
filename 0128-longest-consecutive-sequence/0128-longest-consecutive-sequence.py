@@ -14,8 +14,8 @@ class Solution:
          for i in range(1,len(mp)):
             if mp[i-1]+1==mp[i]:
                 cnt+=1
+                ans=max(ans,cnt)
             else:
                 cnt=1
-            ans=max(ans,cnt)
          ans=max(ans,cnt)
          return ans         
