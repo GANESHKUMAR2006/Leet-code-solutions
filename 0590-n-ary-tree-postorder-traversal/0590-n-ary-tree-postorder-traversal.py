@@ -12,8 +12,6 @@ class Solution:
         if not root:
             return 
         def traversal(root):
-            if not root:
-                return
             for node in root.children:
                 traversal(node)
                 ans.append(node.val)
