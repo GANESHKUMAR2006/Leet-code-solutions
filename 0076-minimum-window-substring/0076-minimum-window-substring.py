@@ -1,26 +1,24 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if len(t)==0:
-            return ''
-        from collections import Counter
+        from collections import defaultdict,Counter
         countT=Counter(t)
-        word={}
         need=len(countT)
         have=0
-        res=[-1,-1]
+        mp={}
+        left=0
         reslen=float('inf')
-        l=0
-        for r in range(len(s)):
-            word[s[r]]=word.get(s[r],0)+1
-            if s[r] in countT and word[s[r]]==countT[s[r]]:
+        res=[-1,-1]
+        for right in range(len(s)):
+            mp[s[right]]=mp.get(s[right],0)+1
+            if s[right] in countT and mp[s[right]]==countT[s[right]]:
                 have+=1
             while need==have:
-                if r-l+1<reslen:
-                    res=[l,r]
-                    reslen=r-l+1
-                word[s[l]]-=1
-                if s[l] in countT and word[s[l]]<countT[s[l]]:
+                if right-left+1<reslen:
+                    res=[left,right]
+                    reslen=right-left+1
+                mp[s[left]]-=1
+                if s[left] in countT and mp[s[left]]<countT[s[left]]:
                     have-=1
-                l+=1
+                left+=1
         l,r=res
-        return s[l:r+1] if reslen!=float('inf') else ''
+        return s[l:r+1] if reslen!=float('inf') else ""
