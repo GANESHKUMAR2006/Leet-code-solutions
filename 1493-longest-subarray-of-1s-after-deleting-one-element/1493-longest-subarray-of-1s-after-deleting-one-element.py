@@ -11,5 +11,5 @@ class Solution:
                 if nums[left] == 0:
                     zero -= 1
                 left += 1
-            ans = max(ans, right - left + 1)
-        return ans-1
+            ans = max(ans, right - left )
+        return ans
