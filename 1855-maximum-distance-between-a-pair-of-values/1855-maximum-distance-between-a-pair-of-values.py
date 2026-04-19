@@ -11,5 +11,4 @@ class Solution:
                 j+=1
             else:
                 i+=1
-                j=max(j,i)
         return distance
