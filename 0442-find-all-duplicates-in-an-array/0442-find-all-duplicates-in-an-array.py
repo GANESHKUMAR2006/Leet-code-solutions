@@ -1,10 +1,9 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        mp=defaultdict(int)
-        for i in nums:
-            mp[i]+=1
+        hashset=set()
         ans=[]
-        for i in mp.keys():
-            if mp[i]==2:
+        for i in nums:
+            if i in hashset:
                 ans.append(i)
+            hashset.add(i)
         return ans
