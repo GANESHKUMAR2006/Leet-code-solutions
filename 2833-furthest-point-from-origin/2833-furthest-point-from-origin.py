@@ -1,14 +1,13 @@
 class Solution:
     def furthestDistanceFromOrigin(self, moves: str) -> int:
-        mp=[0]*3
+        l=0
+        r=0
+        s=0
         for i in moves:
             if i=='L':
-                mp[0]+=1
+                l+=1
             elif i=='R':
-                mp[1]+=1
+                r+=1
             else:
-                mp[2]+=1
-        if mp[0]<mp[1]:
-            return mp[1]-mp[0]+mp[2]
-        else:
-            return mp[0]-mp[1]+mp[2]
+                s+=1
+        return abs(l-r)+s
