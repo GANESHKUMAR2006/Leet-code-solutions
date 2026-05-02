@@ -1,15 +1,55 @@
 class Solution:
-    def reversePairs(self, nums: List[int]) -> int:
-        def merge(lo,hi):
-            if hi-lo<=1:
-                return 0
-            mid=(lo+hi)//2
-            count=merge(lo,mid) + merge(mid,hi)
-            j=mid
-            for i in range(lo,mid):
-                while j<hi and nums[i]>nums[j]*2:
-                    j+=1
-                count+=j-mid
-            nums[lo:hi]=sorted(nums[lo:hi])
-            return count
-        return merge(0,len(nums))
+    def reversePairs(self, nums):
+        
+        self.count = 0
+
+        def merge(arr):
+            if len(arr) > 1:
+
+                mid = len(arr) // 2
+
+                left = arr[:mid]
+                right = arr[mid:]
+
+                merge(left)
+                merge(right)
+
+                # Count reverse pairs
+                rp = 0
+
+                for lp in range(len(left)):
+
+                    while rp < len(right) and left[lp] > 2 * right[rp]:
+                        rp += 1
+
+                    self.count += rp
+
+                # Merge step
+                lp = 0
+                rp = 0
+                fp = 0
+
+                while lp < len(left) and rp < len(right):
+
+                    if left[lp] <= right[rp]:
+                        arr[fp] = left[lp]
+                        lp += 1
+                    else:
+                        arr[fp] = right[rp]
+                        rp += 1
+
+                    fp += 1
+
+                while lp < len(left):
+                    arr[fp] = left[lp]
+                    lp += 1
+                    fp += 1
+
+                while rp < len(right):
+                    arr[fp] = right[rp]
+                    rp += 1
+                    fp += 1
+
+        merge(nums)
+
+        return self.count
