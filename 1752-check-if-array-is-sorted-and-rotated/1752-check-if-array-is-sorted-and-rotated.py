@@ -1,10 +1,12 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        string1=""
-        for i in nums:
-            string1+=str(i)+","
-        nums.sort()
-        string2=""
-        for j in nums:
-            string2+=str(j)+","
-        return string1 in string2+string2
+        inv=0
+        for i in range(len(nums)-1):
+            if nums[i]>nums[i+1]:
+                inv+=1
+                if inv>1:
+                    return False
+        if nums[0]<nums[-1]:
+            inv+=1
+        return inv<=1
+        
