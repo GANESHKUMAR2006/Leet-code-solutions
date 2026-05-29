@@ -1,6 +1,6 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
-        ans=float('inf')
+        ans=37
         for num in nums:
             newval=0
             while num>0:
