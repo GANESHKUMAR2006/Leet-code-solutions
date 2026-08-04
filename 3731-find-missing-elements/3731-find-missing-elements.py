@@ -4,7 +4,7 @@ class Solution:
         mx=max(nums)
         res=[]
         for i in range(mn,mx+1):
-            if i not in set(nums):
+            if i not in nums:
                 res.append(i)
         return res
                 
