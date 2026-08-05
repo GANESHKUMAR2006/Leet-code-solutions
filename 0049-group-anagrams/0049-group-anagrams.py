@@ -1,9 +1,7 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashset=defaultdict(list)
+        mp=defaultdict(list)
         for i in strs:
-            count=[0]*(26)
-            for ch in i:
-                count[ord(ch)-ord('a')]+=1
-            hashset[tuple(count)].append(i)
-        return [values for values in hashset.values()]
+            s=''.join(sorted(i))
+            mp[s].append(i)
+        return [value for value in mp.values()]
