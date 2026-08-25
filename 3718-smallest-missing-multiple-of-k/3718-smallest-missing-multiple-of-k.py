@@ -1,12 +1,8 @@
 class Solution:
     def missingMultiple(self, nums: List[int], k: int) -> int:
-        n=len(nums)
-        temp=[]
-        for i in range(1,n+2):
-            temp.append(k*i)
-        for i in temp:
-            if i in nums:
-                continue
-            else:
-                return i
-                break
+        nums=set(nums)
+        ans=k
+        mul=1
+        while ans*mul in nums:
+            mul+=1
+        return ans*mul
