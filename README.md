@@ -111,4 +111,16 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
