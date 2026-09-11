@@ -26,6 +26,7 @@ All solutions in this repository are publicly available for learning and referen
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -67,6 +68,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -89,6 +91,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Two Pointers
@@ -123,4 +126,8 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
