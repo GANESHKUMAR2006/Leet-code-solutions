@@ -26,6 +26,7 @@ All solutions in this repository are publicly available for learning and referen
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -47,6 +48,7 @@ All solutions in this repository are publicly available for learning and referen
 | [0115-distinct-subsequences](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +132,12 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 <!---LeetCode Topics End-->
