@@ -24,6 +24,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0835-image-overlap/) | Medium |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -115,6 +116,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
