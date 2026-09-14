@@ -38,6 +38,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3870-count-commas-in-range](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -142,4 +143,8 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
