@@ -31,6 +31,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -132,6 +133,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
@@ -190,12 +192,14 @@ All solutions in this repository are publicly available for learning and referen
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
@@ -254,4 +258,8 @@ All solutions in this repository are publicly available for learning and referen
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
