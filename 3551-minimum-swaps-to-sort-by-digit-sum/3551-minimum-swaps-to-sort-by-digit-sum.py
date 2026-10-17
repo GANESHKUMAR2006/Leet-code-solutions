@@ -1,13 +1,6 @@
 class Solution:
     def minSwaps(self, nums: List[int]) -> int:
         n=len(nums)
-        digit=[]
-        for i,val in enumerate(nums):
-            sum_1=0
-            while val>0:
-                sum_1=sum_1+(val%10)
-                val//=10
-            digit.append(sum_1)
         target=sorted(nums, key=lambda x: (sum(map(int, str(x))), x))
         visited=[False]*n
         swap=0
