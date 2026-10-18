@@ -26,6 +26,7 @@ All solutions in this repository are publicly available for learning and referen
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -52,6 +53,7 @@ All solutions in this repository are publicly available for learning and referen
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -70,6 +72,7 @@ All solutions in this repository are publicly available for learning and referen
 | [0678-valid-parenthesis-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -188,6 +191,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -196,6 +200,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -225,6 +230,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -283,4 +289,24 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
