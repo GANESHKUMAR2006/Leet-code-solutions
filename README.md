@@ -60,6 +60,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2409-count-days-spent-together](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -138,6 +139,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
