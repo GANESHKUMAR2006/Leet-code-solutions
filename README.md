@@ -38,6 +38,7 @@ All solutions in this repository are publicly available for learning and referen
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -123,6 +124,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -254,6 +256,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -273,6 +276,7 @@ All solutions in this repository are publicly available for learning and referen
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
