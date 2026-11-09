@@ -32,6 +32,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -286,6 +287,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -330,6 +332,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Binary Indexed Tree
@@ -359,4 +362,8 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 <!---LeetCode Topics End-->
