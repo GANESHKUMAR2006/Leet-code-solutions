@@ -45,6 +45,7 @@ All solutions in this repository are publicly available for learning and referen
 | [2778-sum-of-squares-of-special-elements](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
