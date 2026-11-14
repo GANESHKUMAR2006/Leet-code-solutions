@@ -46,6 +46,7 @@ All solutions in this repository are publicly available for learning and referen
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -114,6 +115,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Game Theory
@@ -290,6 +292,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
