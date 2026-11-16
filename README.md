@@ -24,6 +24,7 @@ All solutions in this repository are publicly available for learning and referen
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0322-coin-change/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0835-image-overlap](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0835-image-overlap/) | Medium |
@@ -94,6 +95,7 @@ All solutions in this repository are publicly available for learning and referen
 | [0022-generate-parentheses](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0322-coin-change](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0322-coin-change/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -218,6 +220,7 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0322-coin-change](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0322-coin-change/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -392,4 +395,12 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
