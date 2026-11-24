@@ -52,6 +52,7 @@ All solutions in this repository are publicly available for learning and referen
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -84,6 +85,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2409-count-days-spent-together](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -209,6 +211,7 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -316,6 +319,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -430,4 +434,8 @@ All solutions in this repository are publicly available for learning and referen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
