@@ -86,6 +86,7 @@ All solutions in this repository are publicly available for learning and referen
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2409-count-days-spent-together](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -329,6 +330,7 @@ All solutions in this repository are publicly available for learning and referen
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/GANESHKUMAR2006/Leet-code-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
